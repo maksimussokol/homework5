@@ -1,0 +1,15 @@
+/Users/Maks/Desktop/repositoriums/homework/homework5/dopzadanie/bin/Debug/net6.0/dopzadanie
+/Users/Maks/Desktop/repositoriums/homework/homework5/dopzadanie/bin/Debug/net6.0/dopzadanie.deps.json
+/Users/Maks/Desktop/repositoriums/homework/homework5/dopzadanie/bin/Debug/net6.0/dopzadanie.runtimeconfig.json
+/Users/Maks/Desktop/repositoriums/homework/homework5/dopzadanie/bin/Debug/net6.0/dopzadanie.dll
+/Users/Maks/Desktop/repositoriums/homework/homework5/dopzadanie/bin/Debug/net6.0/dopzadanie.pdb
+/Users/Maks/Desktop/repositoriums/homework/homework5/dopzadanie/obj/Debug/net6.0/dopzadanie.csproj.AssemblyReference.cache
+/Users/Maks/Desktop/repositoriums/homework/homework5/dopzadanie/obj/Debug/net6.0/dopzadanie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Maks/Desktop/repositoriums/homework/homework5/dopzadanie/obj/Debug/net6.0/dopzadanie.AssemblyInfoInputs.cache
+/Users/Maks/Desktop/repositoriums/homework/homework5/dopzadanie/obj/Debug/net6.0/dopzadanie.AssemblyInfo.cs
+/Users/Maks/Desktop/repositoriums/homework/homework5/dopzadanie/obj/Debug/net6.0/dopzadanie.csproj.CoreCompileInputs.cache
+/Users/Maks/Desktop/repositoriums/homework/homework5/dopzadanie/obj/Debug/net6.0/dopzadanie.dll
+/Users/Maks/Desktop/repositoriums/homework/homework5/dopzadanie/obj/Debug/net6.0/refint/dopzadanie.dll
+/Users/Maks/Desktop/repositoriums/homework/homework5/dopzadanie/obj/Debug/net6.0/dopzadanie.pdb
+/Users/Maks/Desktop/repositoriums/homework/homework5/dopzadanie/obj/Debug/net6.0/dopzadanie.genruntimeconfig.cache
+/Users/Maks/Desktop/repositoriums/homework/homework5/dopzadanie/obj/Debug/net6.0/ref/dopzadanie.dll

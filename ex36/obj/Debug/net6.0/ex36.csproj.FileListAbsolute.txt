@@ -1,0 +1,15 @@
+/Users/Maks/Desktop/repositoriums/homework/homework5/ex36/bin/Debug/net6.0/ex36
+/Users/Maks/Desktop/repositoriums/homework/homework5/ex36/bin/Debug/net6.0/ex36.deps.json
+/Users/Maks/Desktop/repositoriums/homework/homework5/ex36/bin/Debug/net6.0/ex36.runtimeconfig.json
+/Users/Maks/Desktop/repositoriums/homework/homework5/ex36/bin/Debug/net6.0/ex36.dll
+/Users/Maks/Desktop/repositoriums/homework/homework5/ex36/bin/Debug/net6.0/ex36.pdb
+/Users/Maks/Desktop/repositoriums/homework/homework5/ex36/obj/Debug/net6.0/ex36.csproj.AssemblyReference.cache
+/Users/Maks/Desktop/repositoriums/homework/homework5/ex36/obj/Debug/net6.0/ex36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Maks/Desktop/repositoriums/homework/homework5/ex36/obj/Debug/net6.0/ex36.AssemblyInfoInputs.cache
+/Users/Maks/Desktop/repositoriums/homework/homework5/ex36/obj/Debug/net6.0/ex36.AssemblyInfo.cs
+/Users/Maks/Desktop/repositoriums/homework/homework5/ex36/obj/Debug/net6.0/ex36.csproj.CoreCompileInputs.cache
+/Users/Maks/Desktop/repositoriums/homework/homework5/ex36/obj/Debug/net6.0/ex36.dll
+/Users/Maks/Desktop/repositoriums/homework/homework5/ex36/obj/Debug/net6.0/refint/ex36.dll
+/Users/Maks/Desktop/repositoriums/homework/homework5/ex36/obj/Debug/net6.0/ex36.pdb
+/Users/Maks/Desktop/repositoriums/homework/homework5/ex36/obj/Debug/net6.0/ex36.genruntimeconfig.cache
+/Users/Maks/Desktop/repositoriums/homework/homework5/ex36/obj/Debug/net6.0/ref/ex36.dll
